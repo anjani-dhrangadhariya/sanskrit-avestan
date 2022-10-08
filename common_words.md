@@ -32,11 +32,18 @@
 | hąm  |   sám     |   together     | Think of the word Hum in Hindi  |
 | mąm  |   mam     |   me       | Was unable to find the correctly accented a for the Skt. term  |
 | daēvąn  |   dēvan          |   Av. Demons Skt. Gods      |   Was unable to find the correctly accented a for the Skt. term    |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
+| mər<sup>ə</sup>pyuš  |   mṛtyús          |   death      |                |
+| var<sup>ə</sup>šəm  |   vṛkṣám          | wood   |  Was unable to find the correctly accented s for the Av. term  |
+| dar<sup>ə</sup>ʒam  |   dīrghám          |   long      |                |
+| ər<sup>ə</sup>zatəm  |   rajatám          |   silver      |                |
+| āsu-asp<sup>ə</sup>m  |   āṡvàṡvam          |   swift horse      |                |
+| vaēđa  |   vḗda          |   knows      |                |
+| dūraēdars  | dūrē.drṡ  |   far seeing      | Was unable to find the correctly accented r for the Skt. term |
+| rapaestaram  |   rathesthnam          |   warrior in chariot     |                |
+| gave  |   gávē          |  for the cow     |                |
+| aojo  |   ojas          |   strength      | Was unable to find the correctly accented o for the Skt. term |
+| gāuš  |   gāús          |   cow      |                |
+| urūdōyatā  |   rōdáyata          |   he made lament      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
