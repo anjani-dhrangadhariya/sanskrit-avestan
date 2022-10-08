@@ -11,12 +11,41 @@
 | āyu   |   ayu          |   age      |  Was unable to find the correctly accented a for the a in Skt. term  |
 | hamō  |   samás          |   same      |    h --- s         |
 | vīspəm   |   visvam         |   all      |                |
-| srūtō   |   srutás          |   heard      | Was unable to find the correctly accented s for the Skt. term, ō -- as   |
-| antar<sup>ə</sup>   |   antár          |   within      |                |
-| antar<sup>ə</sup>   |   antár          |   within      |                |
-| antar<sup>ə</sup>   |   antár          |   within      |                |
-| antar<sup>ə</sup>   |   antár          |   within      |                |
-| antar<sup>ə</sup>   |   antár          |   within      |                |
+| srūtō   |   srutás          |   heard      | Was unable to find the correctly accented s for the Skt. term, ō --- as   |
+| stūtō   |   stutás           |   of praise      |                |
+| āzū<sup>i</sup>tiš   |   ahuti          |   oblation      | Was unable to find the correctly accented a for the Skt. term  |
+| yū<sup>i</sup>ḋye<sup>i</sup>ti  |   yudhyati          |   he fights   |                |
+| isānəm  |   isānam          |   having power      | Was unable to find the correctly accented i for the Skt. term  |
+| hunavō |   sūnávas          |   sons      |  ō --- as   |
+| tanunąm  |   tanūnām          |   of bodies      |  think of word tan in Hindi  |
+| azəm  |   aham          |   I      |   z --- h             |
+| pa<sup>i</sup>tim  |   pátim          |   lord      |   ai --- a        |
+| haēna  |   senā          |   army      | Was unable to find the correctly accented e for the Skt. term, ae --- e        |
+| pita  |   pita          |   father     |  Was unable to find the correctly accented a for the Skt. term  |
+| nā<sup>i</sup>ri  |   narī          |   woman      | Was unable to find the correctly accented a for the Skt. term  |
+| ahurā  |   ásura          |   Av. O mighty lord, Skt. Demon    | more research needed  |
+| upəməm  |   upamam          |    power      | Think of the word Upa |
+| hvara<sup>ə</sup>  |   svár          |   sun      |                |
+| raocaye<sup>i</sup>ti  |   rōcáyati          |   to light up   | Is it related to the word Roshani?  |
+| yesne  |   yajṅe   |   in worship      | Was unable to find the correctly accented a for the Skt. term  |
+| aojanvantəm  |   ojasvantam          |   mighty      | Think of the word Ojas, Was unable to find the correctly accented o for the Skt. term and n for the Av. term |
+| hąm  |   sám     |   together     | Think of the word Hum in Hindi  |
+| mąm  |   mam     |   me       | Was unable to find the correctly accented a for the Skt. term  |
+| daēvąn  |   dēvan          |   Av. Demons Skt. Gods      |   Was unable to find the correctly accented a for the Skt. term    |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
 
 
 
