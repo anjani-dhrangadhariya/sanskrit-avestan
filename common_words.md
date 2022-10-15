@@ -44,6 +44,13 @@
 | aojo  |   ojas          |   strength      | Was unable to find the correctly accented o for the Skt. term |
 | gāuš  |   gāús          |   cow      |                |
 | urūdōyatā  |   rōdáyata          |   he made lament      |                |
+| yezi, yedi  |   yádi          |   if    |                |
+| druj  |   drúh          |   fiend      |  Consider the word deshdroh   |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
+| isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
