@@ -46,9 +46,9 @@
 | urūdōyatā  |   rōdáyata          |   he made lament      |                |
 | yezi, yedi  |   yádi          |   if    |                |
 | druj  |   drúh          |   fiend      |  Consider the word deshdroh   |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
+| anar<sup>ə</sup>pa  |   anartha          |   wrong (Av.) misfortune (Skt.)      |                |
+| pa<sup>i</sup>tišmarəmna  |   pa<sup>i</sup>tišmarəmna   |   thinking upon      |                |
+| maēʒa  |   megha          |   cloud      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
