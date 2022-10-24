@@ -49,7 +49,7 @@
 | anar<sup>ə</sup>pa  |   anartha          |   wrong (Av.) misfortune (Skt.)      |                |
 | pa<sup>i</sup>tišmarəmna  |   pa<sup>i</sup>tišmarəmna   |   thinking upon      |                |
 | maēʒa  |   megha          |   cloud      |                |
-| isanam  |   isanam          |   having power      |                |
+| masan  |   mahán          |   greatness      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
