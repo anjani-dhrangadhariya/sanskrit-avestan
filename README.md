@@ -2,7 +2,7 @@
 
 A repository to collect common known words in Sankrit and Avestan which is the mother of Persian.
 
-<img src="sanskrit-avestan/Slide1.jpeg" width="128"/>
+<img src="/Slide1.jpeg" width="128"/>
 
 
 ##  Backstory
