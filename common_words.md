@@ -50,10 +50,10 @@
 | pa<sup>i</sup>tišmarəmna  |   pa<sup>i</sup>tišmarəmna   |   thinking upon      |                |
 | maēʒa  |   megha          |   cloud      |                |
 | masan  |   mahán          |   greatness      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
-| isanam  |   isanam          |   having power      |                |
+| cahra  |   cakrá          |   wheel      |                |
+| duš-  |   dus-          |   ill      |                |
+| hu-  |   su-          |   well      |                |
+| husiti  |   sukṣití          |   prosperity      | Was unable to find the correctly accented s for the Av. term   |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
 | isanam  |   isanam          |   having power      |                |
